@@ -3,7 +3,7 @@
 identity and access management(IAM) is web service that helps you securely control access to AWS resources for your users, you use IAM to control who can use
 your AWS resources (authentication) and what resources the can use and in what ways (authorizatio).
 
-![](IAM.png)
+![](image/IAM.png)
 
 # components of iam?
 
@@ -14,15 +14,15 @@ your AWS resources (authentication) and what resources the can use and in what w
 4 POLICIES
 ```
 
-![](IAM03.png)
+![](image/IAM03.png)
 
 # multi factor authentication
 
 # Group creation
 
-![](create-group.png)
+![](image/create-group.png)
 
-![](creat-group01.png)
+![](image/creat-group01.png)
 
 ```
 * Assing group name
@@ -31,32 +31,32 @@ your AWS resources (authentication) and what resources the can use and in what w
 
 ```
 
-![](create-group02.png)
+![](image/create-group02.png)
 
 # User creation
 
-![](user01.png)
+![](image/user01.png)
 
 ```
 * Assing user name
 * select aws access type
 ```
 
-![](user-add.png)
+![](image/user-add.png)
 
 ```
 * select group name
 
 ```
 
-![](user-add-group.png)
+![](image/user-add-group.png)
 
 ```
 * Add user tags
 ```
 
-![](user-tag.png)
+![](image/user-tag.png)
 
-![](user-add-review.png)
+![](image/user-add-review.png)
 
-![](user-complete.png)
+![](image/user-complete.png)
